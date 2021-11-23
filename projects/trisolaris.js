@@ -13,7 +13,7 @@ module.exports = {
                 //USDT
                 "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",
                 //wNEAR
-                "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d"
+                //"0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d"
             ], 
             "weth", 
         ),
